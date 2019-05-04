@@ -1,8 +1,5 @@
 # hello-world
-Test environment to further Git education
+Just some salient updats commited on 4th May 2019
 
-Hi y'all, 
-Just some text to follow in the Git development of my teachings. 
-Think I previously updated the master branch version but, let's see what transpires.
-
+Laterz
 t0nym
